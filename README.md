@@ -1,4 +1,4 @@
-# NDN-Lite Unit Tests over RIOT Platform
+# NDN-Lite Unit Tests over RIOT OS
 
 ## Run the Unit Test
 
